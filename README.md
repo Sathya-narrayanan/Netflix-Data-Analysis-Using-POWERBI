@@ -1,4 +1,4 @@
-# Netflix-Data-Analysis-Using-POWERBI
+# Netflix-Data-Analysis-Using-Power-BI
 
 ## 🔹 Project Overview
 
